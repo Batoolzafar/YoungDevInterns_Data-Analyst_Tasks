@@ -76,7 +76,7 @@ First, we analyzed the 'survival_status' based on different categories.
      <li>Since titanic is famous for class discrimination, 63% of the first class passengers were saved by providing facilities while 74% of third class people drowned.</li>
      <li>51% of people with families survied.</li>
      <li>Adult males </li>
-     <li></li>
+     <li>Most of the survivers belonged to Cherbourg</li>
      <li></li>
      <li></li>
      <li></li>
@@ -84,8 +84,9 @@ First, we analyzed the 'survival_status' based on different categories.
 </ul>
 Later on doing the statistical analysis, I came to know that
 All the heavy fairs "actually outliers" were paid by first class passengers but some of the first class passengers paid no fare at all.
-A new column "fare_category" was made to categorize the fares based on expensive,reasonable,inexpensive and no fares which supported the idea that a lot of people paid low fares. This proposed the idea that most of the people on board were third class.
-Contrary to that, most of them were first class and paid inexpensive fares. 
+A new column "fare_category" was made to categorize the fares based on expensive,reasonable,inexpensive and no fares. It was found that a lot of passengers low fares. This proposed the idea that most of the people on board were third class which was also proved.
+As the Cherbourg residents had the most survival rate, they had paid the heaviest fares and would have been saved earlier.
+
 
 
 
