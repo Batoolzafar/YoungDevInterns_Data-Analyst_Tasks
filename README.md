@@ -83,7 +83,9 @@ First, we analyzed the 'survival_status' based on different categories.
 
 </ul>
 Later on doing the statistical analysis, I came to know that
-All the heavy fairs "actually outliers" were paid by first class passengers but some of the first class passengers paid no fare at all
+All the heavy fairs "actually outliers" were paid by first class passengers but some of the first class passengers paid no fare at all.
+A new column "fare_category" was made to categorize the fares based on expensive,reasonable,inexpensive and no fares which supported the idea that a lot of people paid low fares. This proposed the idea that most of the people on board were third class.
+Contrary to that, most of them were first class and paid inexpensive fares. 
 
 
 
