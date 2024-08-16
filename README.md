@@ -5,7 +5,7 @@
 
 ## Task 1: Perform Advanced Data Analysis with Python
 
-### Objective:
+<b>Outline</b>
 <p>Throughout the project I went through the following steps:</p>
 <ol>
      <li>Manipulating column names</li>
@@ -17,10 +17,10 @@
      <li>Analysis (Statistical and Visual)</li>
      </ol>
 
-1- Manipulating column names     
+### 1- Manipulating column names     
 <p>The initial column names were replaced to make them self explanatory. This not only helped me in analysis but will also be helpful to others viewing the project.</p>
 
-2- Dropping extra columns
+### 2- Dropping extra columns
 <p>While analyzing all 15 columns in the dataset I noticed that some of them were repeated with different values.</p>
     1- 'Embarked' had the short form of towns and 'embark_town' was filled with full town names.
     2- 'Survived' had values 1 and 0, unlike 'survival_status' which was filled with True and False instead.
@@ -40,16 +40,16 @@
      <li>alone: single or with family (categories = True, False)</li>
 </ul>
 
-3- Dropping Duplicates 
+### 3- Dropping Duplicates 
 <p>Suprisingly, dropping duplicates reduced the data from 891 to 784 rows.</p>
 
-4- Dropping Outlier
+### 4- Dropping Outlier
 <p>While observing the data summary, one of the 'fare' column had a fairly large difference between 75 percentile and the maximum value which had the risk of disturbance in analysis. This outlier was removed reducing rows to 781.</p>
   
-5- Replacing values 
+### 5- Replacing values 
 <p>Values in some colummns were True or False which were replaced with yes or no instead.</p>
 
-6- Handling Null Values
+### 6- Handling Null Values
 <p>Following columns had the null values:</p>
 <ul>
      <li>deck = 581</li>
@@ -66,7 +66,7 @@ They paid fares based on classes and decks. In order to find the most probable d
 
 <p>Two additional columns: 'fare_range' and 'adult_range' were also made to ease the process and were removed after served purpose.</p>
 
-7- Analysis
+### 7- Analysis
 <p>By looking at the data, the first question to arise is: who survied?
 For that, we analyzed the 'survival_status' based on different categories.</p>
 <ul>
