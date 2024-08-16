@@ -1,9 +1,9 @@
-# YoungDevIntern-Internship
+# ⏳ YoungDevIntern-Internship
 
 ## About the Dataset
-<p>The example dataset of seaborn used in this project is the most famous titanic dataset. This dataset is best for analysis as well as creating dashboards and machine learning models. Morever, it is related to one of the most unprecedented events in world history which makes the task even more interesting.</p>p>
+<p>The example dataset of seaborn used in this project is the most famous Titanic dataset🚢. This dataset is best for analysis as well as creating dashboards and machine learning models. Morever, it is related to one of the most unprecedented events in world history which makes the task even more interesting.</p>p>
 
-## Task 1: Perform Advanced Data Analysis with Python
+## 📝 Task 1: Perform Advanced Data Analysis with Python
 
 <b>Outline</b>
 <p>Throughout the project I went through the following steps:</p>
@@ -17,10 +17,10 @@
      <li>Analysis (Statistical and Visual)</li>
      </ol>
 
-### 1- Manipulating column names     
+### 🛠 Manipulating column names     
 <p>The initial column names were replaced to make them self explanatory. This not only helped me in analysis but will also be helpful to others viewing the project.</p>
 
-### 2- Dropping extra columns
+### ✂ Dropping extra columns
 <p>While analyzing all 15 columns in the dataset I noticed that some of them were repeated with different values.</p>
     1- 'Embarked' had the short form of towns and 'embark_town' was filled with full town names.
     2- 'Survived' had values 1 and 0, unlike 'survival_status' which was filled with True and False instead.
@@ -40,16 +40,16 @@
      <li>alone: single or with family (categories = True, False)</li>
 </ul>
 
-### 3- Dropping Duplicates 
+### 🧨 Dropping Duplicates 
 <p>Suprisingly, dropping duplicates reduced the data from 891 to 784 rows.</p>
 
-### 4- Dropping Outlier
+### 🗑 Dropping Outlier
 <p>While observing the data summary, one of the 'fare' column had a fairly large difference between 75 percentile and the maximum value which had the risk of disturbance in analysis. This outlier was removed reducing rows to 781.</p>
   
-### 5- Replacing values 
+### 🔗 Replacing values 
 <p>Values in some colummns were True or False which were replaced with yes or no instead.</p>
 
-### 6- Handling Null Values
+### 🔩 Handling Null Values
 <p>Following columns had the null values:</p>
 <ul>
      <li>deck = 581</li>
@@ -66,7 +66,7 @@ They paid fares based on classes and decks. In order to find the most probable d
 
 <p>Two additional columns: 'fare_range' and 'adult_range' were also made to ease the process and were removed after served purpose.</p>
 
-### 7- Analysis
+### 🧪 Analysis
 <p>By looking at the data, the first question to arise is: who survied?
 For that, we analyzed the 'survival_status' based on different categories.</p>
 <ul>
@@ -81,7 +81,7 @@ For that, we analyzed the 'survival_status' based on different categories.</p>
      <li>The eldest passenger to survive was an 80 year old first class passenger.</li>
 </ul>
 <p>Later on doing the statistical analysis, I came to know that
-all the heavy fares ("actually outliers") were paid by first class passengers but some of the first class passengers paid no fare at all.</p>
+all the heavy fares 💸 ("actually outliers") were paid by first class passengers but some of the first class passengers paid no fare at all.</p>
 <p>A new column "fare_category" was made to categorize the fares based on expensive,reasonable,inexpensive and no fares. It was found that a lot of passengers paid low fares. This proposed the idea that most of the people on board were third class which was also proved.</p>
 <p>As the Cherbourg residents had the highest survival rate, they had paid the heaviest fares and would have been saved earlier.</p>
 <p>The standard deviations in the age and fare columns were very high which means that people of different ages were on board who paid different fares for different facilities.</p>
