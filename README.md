@@ -73,7 +73,7 @@ They paid fares based on classes and decks. In order to find the most probable d
 For that, we analyzed the 'survival_status' based on different categories.</p>
 <ul>
      <li>Out of all the passengers only 41% survived.</li>
-     <li>Of those 74% were females.</li>
+     <li>Of those 68% were females.</li>
      <li>Among all women 76% were lucky to survive while only 18% of all man and 59% children were able to make it.</li>
      <li>By categorizing the survival status by decks, B was the safest deck with the survival rate of 69% whereas 75 of every 100 individuals lost their 
       lives in deck G.</li>
