@@ -22,9 +22,11 @@
 
 ### ✂ Dropping extra columns
 <p>While analyzing all 15 columns in the dataset I noticed that some of them were repeated with different values.</p>
-    1- 'Embarked' had the short form of towns and 'embark_town' was filled with full town names.
-    2- 'Survived' had values 1 and 0, unlike 'survival_status' which was filled with True and False instead.
-    3- 'Class' had class numbers written in letters contrary to passenger class filled with integral values.
+<ol>
+     <li>'Embarked' had the short form of towns and 'embark_town' was filled with full town names.</li>
+     <li>'Survived' had values 1 and 0, unlike 'survival_status' which was filled with True and False instead.</li>
+     <li>'Class' had class numbers written in letters contrary to passenger class filled with integral values.</li></ol>
+    
 <p>After munging, the following 12 columns were ready for analysis:</p>
 <ul><li>passenger_class:  The three classes of people (categories = 1,2,3)</li>
      <li>gender: (categories = male,female)</li>
