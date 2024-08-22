@@ -88,6 +88,7 @@ all the heavy fares 💸 ("actually outliers") were paid by first class passenge
 <p>As the Cherbourg residents had the highest survival rate, they had paid the heaviest fares and would have been saved earlier.</p>
 <p>The standard deviations in the age and fare columns were very high which means that people of different ages were on board who paid different fares for different facilities.</p>
 <hr>
+
 ## 📝 Task 2: Creating a Dashboard
 
 ![cappppp](https://github.com/user-attachments/assets/1eee4861-5cb0-40fa-871d-3b3ca23c15ff)
