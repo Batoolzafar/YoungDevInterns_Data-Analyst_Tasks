@@ -94,6 +94,7 @@ all the heavy fares 💸 ("actually outliers") were paid by first class passenge
 ![cappppp](https://github.com/user-attachments/assets/1eee4861-5cb0-40fa-871d-3b3ca23c15ff)
 
 This dashboard provides the overview about the survivers and non survivers of the historic wreck.
+To see it fully functioning, please refer to: https://www.linkedin.com/feed/update/urn:li:activity:7232695557331275776/
 
 
 
