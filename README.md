@@ -88,6 +88,7 @@ all the heavy fares 💸 ("actually outliers") were paid by first class passenge
 <p>As the Cherbourg residents had the highest survival rate, they had paid the heaviest fares and would have been saved earlier.</p>
 <p>The standard deviations in the age and fare columns were very high which means that people of different ages were on board who paid different fares for different facilities.</p>
 <hr>
+<p>To view the code: https://github.com/Batoolzafar/YoungDevInterns_Data-Analyst_Tasks/blob/main/Analysis%20on%20Titanic%20dataset%20-%20Task%201.ipynb</p>
 
 ## 📝 Task 2: Creating a Dashboard
 
